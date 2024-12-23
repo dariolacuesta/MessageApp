@@ -1,0 +1,18 @@
+{
+  "appointment_confirmation": {
+    "id": "HXcdf182685120149987bb406a84a0018b",
+    "description": "Confirmación de Cita"
+  },
+  "appointment_reminder": {
+    "id": "HX9ed7bc6eb3583b321a31d79ed3649abe",
+    "description": "Recordatorio de Cita"
+  },
+  "appointment_canceled": {
+    "id": "HXcf3c5164ef49918ed0f9e435642b8f5e",
+    "description": "Cita Cancelada"
+  },
+  "appointment_confirmation_buttons": {
+    "id": "HXcdf182685120149987bb406a84a0018b",
+    "description": "Confirmación de Cita con Botones"
+  }
+}
